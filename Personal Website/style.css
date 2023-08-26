@@ -1,0 +1,40 @@
+body {
+  background-color: #dfd7bf;
+}
+
+h1 {
+  color: #3F2305;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+}
+
+h3 {
+  color: #3f2305;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #3f2305;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #3f2305;
+  border-width: 5px;
+  width: 8%;
+  height: 0px;
+}
+
+table {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
